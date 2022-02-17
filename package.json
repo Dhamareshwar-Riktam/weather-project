@@ -1,0 +1,21 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "Learning API Calls",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Dhamareshwarakumar Gandikota",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
